@@ -1,0 +1,9 @@
+suppliermanagement.SupplierManagement$1
+suppliermanagement.SupplierManagement
+suppliermanagement.SupplierManagement$3
+suppliermanagement.SupplierManagement$2
+suppliermanagement.SupplierManagement$5
+suppliermanagement.SupplierManagement$4
+suppliermanagement.SupplierManagement$7
+suppliermanagement.SupplierManagement$6
+suppliermanagement.SupplierManagement$8
